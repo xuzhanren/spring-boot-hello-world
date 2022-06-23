@@ -1,4 +1,4 @@
-FROM quay.io/eclipse/che-java8-maven
+FROM nuclearghost/java8maven
 
 MAINTAINER tech-tejendra
 
